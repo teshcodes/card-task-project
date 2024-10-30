@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(228, 232, 236)
+
+}
+.card-wrapper  {
+  background-color: white;
+  max-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+.illustration-img  {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  
+}
+.annual-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0px 20px 0px 20px;
+}
+.annual-box  {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+}
+
+.payment-container  {
+     background-color: blue;
+     margin: 30px;
+     padding: 3px 0px 3px 0px;
+     border-radius: 10px;
+     box-shadow: 4px 4px 5px #888888;
+     cursor: pointer;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+}
+.payment-text  {
+color: white;
+
+
+}
+.summary-heading  {
+   font-weight: bold;
+}  
+.annual-heading  {
+
+  font-weight: bold;
+}
+ul {
+  text-align: center;
+
+}
+.cancel-btn, .change-btn  {
+    cursor: pointer;
+
+}
+
+
+
+img {
+  font-size: medium;
+  text-align: center;
+}
+
+p {
+
+  text-align: center;
+}
+
+p+h3 {
+  text-align: center;
+}
+
+p {
+  line-height: 10px;
+  text-align: center;
+  color: black;
+
+}
+
+ 
+
+ 
